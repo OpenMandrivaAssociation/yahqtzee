@@ -1,6 +1,6 @@
 Name:           yahqtzee
 Version:        2008.50
-Summary:        A dice game written in C++ with Qt 4.
+Summary:        A dice game written in C++ with Qt 4
 Release:        %mkrel 1
 License:        GPL
 Group:          Graphical desktop/KDE
