@@ -1,5 +1,5 @@
 Name:           yahqtzee
-Version:        2009.02
+Version:        2009.10
 Summary:        A dice game written in C++ with Qt 4
 Release:        %mkrel 1
 License:        GPL
@@ -23,7 +23,7 @@ A dice game written in C++ with Qt 4.
 #-----------------------------------------------------------------------------
 
 %prep
-%setup -q -n yahtzee-%version
+%setup -q -n yahtzee
 %patch0 -p1
 
 %build
