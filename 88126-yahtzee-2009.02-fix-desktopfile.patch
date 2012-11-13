@@ -1,0 +1,13 @@
+--- yahtzee-2009.02/desktop/yahtzee.desktop~	2008-12-14 04:10:48.000000000 +0100
++++ yahtzee-2009.02/desktop/yahtzee.desktop	2009-01-13 23:16:22.000000000 +0100
+@@ -4,8 +4,8 @@
+ Comment[fr]=Jeu de dés 
+ Comment[en]=Dices game 
+ Exec=yahtzee
+-Icon=yahqtzee.png
++Icon=yahqtzee
+ Terminal=false
+ Type=Application
+ StartupNotify=true
+-Categories=Qt;KDE;
++Categories=Qt;KDE;Game;StrategyGame;
