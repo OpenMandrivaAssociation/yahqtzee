@@ -54,3 +54,28 @@ ln -s %_gamesdatadir/yahtzee/yahtzee %buildroot%_gamesbindir
 %clean
 rm -rf %{buildroot}
 
+
+
+%changelog
+* Mon Sep 21 2009 Thierry Vignaud <tvignaud@mandriva.com> 2009.10-2mdv2010.0
++ Revision: 446277
+- rebuild
+
+* Wed Mar 04 2009 Antoine Ginies <aginies@mandriva.com> 2009.10-1mdv2009.1
++ Revision: 348480
+- update to latest release available
+
+* Tue Jan 13 2009 Nicolas Lécureuil <neoclust@mandriva.org> 2009.02-1mdv2009.1
++ Revision: 329217
+- New upstream version
+
+* Sat Dec 13 2008 Nicolas Lécureuil <neoclust@mandriva.org> 2008.50-2mdv2009.1
++ Revision: 313942
+- Bump release
+
+* Sat Dec 13 2008 Nicolas Lécureuil <neoclust@mandriva.org> 2008.50-1mdv2009.1
++ Revision: 313940
+- Fix Summary
+- import yahqtzee
+
+
