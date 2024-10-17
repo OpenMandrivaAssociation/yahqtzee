@@ -4,7 +4,7 @@ Summary:        A dice game written in C++ with Qt 4
 Release:        3
 License:        GPL
 Group:          Graphical desktop/KDE
-URL:            http://www.qt-apps.org/content/show.php/YahQtzee?content=88126
+URL:            https://www.qt-apps.org/content/show.php/YahQtzee?content=88126
 Source0:        http://prdownloads.sourceforge.net/88126-yahtzee-%version.tar.gz
 Patch0:         88126-yahtzee-2009.02-fix-desktopfile.patch
 BuildRoot:      %_tmppath/%name-%version-%release-buildroot
