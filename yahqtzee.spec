@@ -8,6 +8,7 @@ URL:            https://www.qt-apps.org/content/show.php/YahQtzee?content=88126
 Source0:        http://prdownloads.sourceforge.net/88126-yahtzee-%version.tar.gz
 Patch0:         88126-yahtzee-2009.02-fix-desktopfile.patch
 BuildRoot:      %_tmppath/%name-%version-%release-buildroot
+BuildRequires:	make
 BuildRequires:  qt4-devel
 
 %description
